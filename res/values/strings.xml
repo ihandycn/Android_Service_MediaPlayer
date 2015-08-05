@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">MediaPlayer</string>
+    <string name="media_folder_label">Media folder:</string>
+    <string name="select_folder_label">Select folder</string>
+    <string name="play_action">Play</string>
+    <string name="pause_action">Pause</string>
+    <string name="stop_action">Stop</string>
+    <string name="no_song">No song selected</string>
+    <string name="media_folder">/sdcard/Music</string>
+</resources>
